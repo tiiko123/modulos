@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hijo1/hijo1.iml" filepath="$PROJECT_DIR$/hijo1/hijo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hijo2/hijo2.iml" filepath="$PROJECT_DIR$/hijo2/hijo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hijo3/hijo3.iml" filepath="$PROJECT_DIR$/hijo3/hijo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/padre.iml" filepath="$PROJECT_DIR$/padre.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: activeio:activeio:2.0-r118">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/activeio/activeio/2.0-r118/activeio-2.0-r118.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/activeio/activeio/2.0-r118/activeio-2.0-r118-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/activeio/activeio/2.0-r118/activeio-2.0-r118-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
